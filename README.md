@@ -3,7 +3,7 @@ This repository contains the material for the tutorial session on Multimodal Var
 
 For this tutorial, you can either: 
 1. Run the notebook in a local environment on your computer. See instructions [here](#running-the-tutorial-on-your-computer).
-2. Run the notebook on Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatheSenellart/summer_school_AI_Science_2025/blob/main/summer_school_2025.ipynb)                                                                                                                        
+2. Run the notebook on Google Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgatheSenellart/summer_school_AI_Science_2025/blob/main/tutorial_notebook.ipynb)                                                                                                                        
 
 ## Running the tutorial on your computer
 
@@ -13,7 +13,7 @@ For this tutorial, you can either:
 2. Uncompress the folder and move into it.
 
 3. Into a python environment with python 3.11 run:
-```pip install multivae```
+```pip install multivae && pip install huggingface_hub```
 
 4. Select this environment for running the notebook.
 
